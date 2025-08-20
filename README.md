@@ -25,8 +25,7 @@ O projeto foi construído utilizando as seguintes tecnologias:
 ### Abra o arquivo index.html em seu navegador de preferência.
 
 ## 📸 Demonstração
-[![Gravando 2025-08-20 144524](https://github.com/user-attachments/assets/5066d75b-97ed-42ff-8cc7-e7b1f0fad54e)
-]
+![Gravando 2025-08-20 144524](https://github.com/user-attachments/assets/5066d75b-97ed-42ff-8cc7-e7b1f0fad54e)
 
 ## 👤 Autor
 Lucas Sena - 01Lucasena
