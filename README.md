@@ -21,18 +21,8 @@ O projeto foi construído utilizando as seguintes tecnologias:
 
 ## 🚀 Como Executar o Projeto
 É muito fácil! Não é necessário instalar nada. Siga os passos abaixo:
-
-Clone este repositório para a sua máquina local:
-
-Bash
-
-git clone https://github.com/seu-usuario/seu-projeto-da-lampada.git
-Navegue até o diretório do projeto:
-
-Bash
-
-cd seu-projeto-da-lampada
-Abra o arquivo index.html em seu navegador de preferência.
+### Navegue até o diretório do projeto:
+### Abra o arquivo index.html em seu navegador de preferência.
 
 ## 📸 Demonstração
 [![Gravando 2025-08-20 144524](https://github.com/user-attachments/assets/5066d75b-97ed-42ff-8cc7-e7b1f0fad54e)
