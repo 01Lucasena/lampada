@@ -21,7 +21,8 @@ O projeto foi construído utilizando as seguintes tecnologias:
 
 ## 🚀 Como Executar o Projeto
 É muito fácil! Não é necessário instalar nada. Siga os passos abaixo:
-### Navegue até o diretório do projeto:
+### Clone este repositório para a sua máquina local
+### Navegue até o diretório do projeto
 ### Abra o arquivo index.html em seu navegador de preferência.
 
 ## 📸 Demonstração
